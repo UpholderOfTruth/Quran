@@ -1,2 +1,2 @@
 # Quran
-The RAW Quran file and is various language translations including; English.
+The RAW Quran -- a file and its various language translations including; English.
